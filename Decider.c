@@ -1,3 +1,9 @@
+/*
+	Program Name... : decider.c
+	Author......... : Prajwal Y P
+	Pragram Task... : Future learning-path decision making program
+*/
+
 #include<stdio.h>
 main()
 {
