@@ -1,3 +1,9 @@
+/*
+	Program Name		:	addtill1.c
+	Author			:	Prajwal Y P
+	Task			:	To Read 10 Numbers from the User and find SUM of Positive Numbers only.
+*/
+
 #include<stdio.h>
 
 main()
