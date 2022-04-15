@@ -13,5 +13,5 @@ main()
 		else	
 			s+=n;
 	}
-	printf("\n\n\t\tSUM : %d\n\n",s);
+	printf("\n\n\t\tSUM Of %d Numbers(s) : %d\n\n",i,s);
 }
